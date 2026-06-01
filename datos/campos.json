@@ -1,0 +1,70 @@
+{
+    "N\u00famero factura": {
+        "x": 140,
+        "y": 668,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 12
+    },
+    "CIF": {
+        "x": 95,
+        "y": 590,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 11
+    },
+    "Fecha": {
+        "x": 115,
+        "y": 624,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 12
+    },
+    "Tabla": {
+        "x": 90,
+        "y": 540,
+        "ancho": 200,
+        "alto": 15,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 12
+    },
+    "Direcci\u00f3n": {
+        "x": 320,
+        "y": 665,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 14
+    },
+    "Cuadro": {
+        "x": 310,
+        "y": 695,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 14
+    },
+    "Cliente": {
+        "x": 320,
+        "y": 685,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 15
+    },
+    "Bruto": {
+        "x": 80,
+        "y": 70,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 12
+    },
+    "Iva": {
+        "x": 160,
+        "y": 70,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 12
+    },
+    "Desc": {
+        "x": 225,
+        "y": 70,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 12
+    },
+    "Neto": {
+        "x": 464,
+        "y": 70,
+        "fuente": "Helvetica",
+        "tama\u00f1o": 12
+    }
+}

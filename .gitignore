@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+build/
+*.spec
+datos/email_original.json
+datos/plantilla_original.png
