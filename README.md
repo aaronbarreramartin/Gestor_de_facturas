@@ -8,7 +8,7 @@ Aplicación de escritorio desarrollada en Python para la gestión de facturas.
 - Envío automático por email
 - Gestión de clientes con historial de servicios
 - Impresión directa
-- Exportación de registros en CSV
+- Exportación de registros en CSV para potencial análisis posterior
 
 ## Tecnologías
 
