@@ -27,5 +27,3 @@ Requiere un archivo `datos/email.json` con las credenciales del remitente:
     "contrasena": "tu_contraseña"
 }
 ```
-
-Y un archivo `datos/campos.json` con las coordenadas de los campos en la plantilla.
